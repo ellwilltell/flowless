@@ -1,0 +1,6 @@
+{
+  "rootDir": "./src",
+  "tsc": {
+    "skipLibCheck": true
+  }
+}
