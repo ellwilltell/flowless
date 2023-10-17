@@ -4,8 +4,6 @@ node_modules/
 # Ignore the distribution directory
 /dist
 
-# Ignore any compiled TypeScript files
-*.js
 
 # Ignore compiled TypeScript declaration files
 *.d.ts
